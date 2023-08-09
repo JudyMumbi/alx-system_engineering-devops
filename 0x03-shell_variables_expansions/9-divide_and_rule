@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($DOLLAR / $DIVIDE))
+echo $(($POWER / $DIVIDE))
